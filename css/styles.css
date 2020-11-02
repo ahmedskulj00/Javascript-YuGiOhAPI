@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: #1d3877;
+}
+#card-image{
+    height: 350px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 140px;
+}
+#card-name{
+    text-align: center;
+    color: white;
+}
+#attack{
+    text-align: center;
+    color: white;
+}
+#defence{
+    text-align: center;
+    color: white;
+}
